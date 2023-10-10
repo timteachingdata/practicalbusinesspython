@@ -1,3 +1,6 @@
+# Specific folders which are indicated to be ignored
+**/*ignoreme/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
