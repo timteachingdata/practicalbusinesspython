@@ -58,6 +58,8 @@ This repository accompanies the book Practical Business Python. The book is inte
 - [Programming for job interviews (LeetCode)](https://leetcode.com/)
 - [Competitive Programming (HackerRank)](https://www.hackerrank.com/)
 - [Competitive Programming (CodeChef)](https://www.codechef.com/)
+- [Project Euler](https://projecteuler.net/)
+- [Advent of code](https://adventofcode.com/)
 
 ### Datasets
 - [Competitive ML (Kaggle)](https://www.kaggle.com/datasets)
