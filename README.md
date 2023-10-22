@@ -62,6 +62,7 @@ This repository accompanies the book Practical Business Python. The book is inte
 - [Advent of code](https://adventofcode.com/)
 
 ### Datasets
+- [ML papers with open source data](https://paperswithcode.com/)
 - [Competitive ML (Kaggle)](https://www.kaggle.com/datasets)
 - [Disney World](https://touringplans.com/)
 - [ML library of the University of California](https://archive.ics.uci.edu/)
