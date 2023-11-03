@@ -15,6 +15,10 @@ This repository accompanies the book Practical Business Python. The book is inte
 
 ## List of useful links:
 
+### Additional resources to learn Python
+- [Book containing many projects (with solutions)](https://inventwithpython.com/bigbookpython/)
+- [Basic Python course](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Python_v.PROF_la.EN_cc.ROWMTA-B_ti.7380&utm_content=deal4584&utm_term=_._ag_80869582031_._ad_533999956687_._kw__._de_c_._dm__._pl__._ti_dsa-774930046209_._li_1001028_._pd__._&matchtype=&gclid=Cj0KCQjwtJKqBhCaARIsAN_yS_k_8Z9Anw2VF_1JqJ9hKMpg11WLTA5-_ZqM-_4ADdl7R2rwjYnpeScaAuZDEALw_wcB)
+- 
 ### Blog posts
 - [The agile bike](https://m.dotdev.co/the-agile-bicycle-829a83b18e7)
 - [Why not to use inplace for pandas](https://towardsdatascience.com/why-you-should-probably-never-use-pandas-inplace-true-9f9f211849e4)
