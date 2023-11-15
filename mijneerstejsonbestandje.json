@@ -1,0 +1,502 @@
+{
+    "De 0de key van mijn dictionary": [
+        0,
+        0,
+        0
+    ],
+    "De 1de key van mijn dictionary": [
+        1,
+        1,
+        1
+    ],
+    "De 2de key van mijn dictionary": [
+        4,
+        8,
+        16
+    ],
+    "De 3de key van mijn dictionary": [
+        9,
+        27,
+        81
+    ],
+    "De 4de key van mijn dictionary": [
+        16,
+        64,
+        256
+    ],
+    "De 5de key van mijn dictionary": [
+        25,
+        125,
+        625
+    ],
+    "De 6de key van mijn dictionary": [
+        36,
+        216,
+        1296
+    ],
+    "De 7de key van mijn dictionary": [
+        49,
+        343,
+        2401
+    ],
+    "De 8de key van mijn dictionary": [
+        64,
+        512,
+        4096
+    ],
+    "De 9de key van mijn dictionary": [
+        81,
+        729,
+        6561
+    ],
+    "De 10de key van mijn dictionary": [
+        100,
+        1000,
+        10000
+    ],
+    "De 11de key van mijn dictionary": [
+        121,
+        1331,
+        14641
+    ],
+    "De 12de key van mijn dictionary": [
+        144,
+        1728,
+        20736
+    ],
+    "De 13de key van mijn dictionary": [
+        169,
+        2197,
+        28561
+    ],
+    "De 14de key van mijn dictionary": [
+        196,
+        2744,
+        38416
+    ],
+    "De 15de key van mijn dictionary": [
+        225,
+        3375,
+        50625
+    ],
+    "De 16de key van mijn dictionary": [
+        256,
+        4096,
+        65536
+    ],
+    "De 17de key van mijn dictionary": [
+        289,
+        4913,
+        83521
+    ],
+    "De 18de key van mijn dictionary": [
+        324,
+        5832,
+        104976
+    ],
+    "De 19de key van mijn dictionary": [
+        361,
+        6859,
+        130321
+    ],
+    "De 20de key van mijn dictionary": [
+        400,
+        8000,
+        160000
+    ],
+    "De 21de key van mijn dictionary": [
+        441,
+        9261,
+        194481
+    ],
+    "De 22de key van mijn dictionary": [
+        484,
+        10648,
+        234256
+    ],
+    "De 23de key van mijn dictionary": [
+        529,
+        12167,
+        279841
+    ],
+    "De 24de key van mijn dictionary": [
+        576,
+        13824,
+        331776
+    ],
+    "De 25de key van mijn dictionary": [
+        625,
+        15625,
+        390625
+    ],
+    "De 26de key van mijn dictionary": [
+        676,
+        17576,
+        456976
+    ],
+    "De 27de key van mijn dictionary": [
+        729,
+        19683,
+        531441
+    ],
+    "De 28de key van mijn dictionary": [
+        784,
+        21952,
+        614656
+    ],
+    "De 29de key van mijn dictionary": [
+        841,
+        24389,
+        707281
+    ],
+    "De 30de key van mijn dictionary": [
+        900,
+        27000,
+        810000
+    ],
+    "De 31de key van mijn dictionary": [
+        961,
+        29791,
+        923521
+    ],
+    "De 32de key van mijn dictionary": [
+        1024,
+        32768,
+        1048576
+    ],
+    "De 33de key van mijn dictionary": [
+        1089,
+        35937,
+        1185921
+    ],
+    "De 34de key van mijn dictionary": [
+        1156,
+        39304,
+        1336336
+    ],
+    "De 35de key van mijn dictionary": [
+        1225,
+        42875,
+        1500625
+    ],
+    "De 36de key van mijn dictionary": [
+        1296,
+        46656,
+        1679616
+    ],
+    "De 37de key van mijn dictionary": [
+        1369,
+        50653,
+        1874161
+    ],
+    "De 38de key van mijn dictionary": [
+        1444,
+        54872,
+        2085136
+    ],
+    "De 39de key van mijn dictionary": [
+        1521,
+        59319,
+        2313441
+    ],
+    "De 40de key van mijn dictionary": [
+        1600,
+        64000,
+        2560000
+    ],
+    "De 41de key van mijn dictionary": [
+        1681,
+        68921,
+        2825761
+    ],
+    "De 42de key van mijn dictionary": [
+        1764,
+        74088,
+        3111696
+    ],
+    "De 43de key van mijn dictionary": [
+        1849,
+        79507,
+        3418801
+    ],
+    "De 44de key van mijn dictionary": [
+        1936,
+        85184,
+        3748096
+    ],
+    "De 45de key van mijn dictionary": [
+        2025,
+        91125,
+        4100625
+    ],
+    "De 46de key van mijn dictionary": [
+        2116,
+        97336,
+        4477456
+    ],
+    "De 47de key van mijn dictionary": [
+        2209,
+        103823,
+        4879681
+    ],
+    "De 48de key van mijn dictionary": [
+        2304,
+        110592,
+        5308416
+    ],
+    "De 49de key van mijn dictionary": [
+        2401,
+        117649,
+        5764801
+    ],
+    "De 50de key van mijn dictionary": [
+        2500,
+        125000,
+        6250000
+    ],
+    "De 51de key van mijn dictionary": [
+        2601,
+        132651,
+        6765201
+    ],
+    "De 52de key van mijn dictionary": [
+        2704,
+        140608,
+        7311616
+    ],
+    "De 53de key van mijn dictionary": [
+        2809,
+        148877,
+        7890481
+    ],
+    "De 54de key van mijn dictionary": [
+        2916,
+        157464,
+        8503056
+    ],
+    "De 55de key van mijn dictionary": [
+        3025,
+        166375,
+        9150625
+    ],
+    "De 56de key van mijn dictionary": [
+        3136,
+        175616,
+        9834496
+    ],
+    "De 57de key van mijn dictionary": [
+        3249,
+        185193,
+        10556001
+    ],
+    "De 58de key van mijn dictionary": [
+        3364,
+        195112,
+        11316496
+    ],
+    "De 59de key van mijn dictionary": [
+        3481,
+        205379,
+        12117361
+    ],
+    "De 60de key van mijn dictionary": [
+        3600,
+        216000,
+        12960000
+    ],
+    "De 61de key van mijn dictionary": [
+        3721,
+        226981,
+        13845841
+    ],
+    "De 62de key van mijn dictionary": [
+        3844,
+        238328,
+        14776336
+    ],
+    "De 63de key van mijn dictionary": [
+        3969,
+        250047,
+        15752961
+    ],
+    "De 64de key van mijn dictionary": [
+        4096,
+        262144,
+        16777216
+    ],
+    "De 65de key van mijn dictionary": [
+        4225,
+        274625,
+        17850625
+    ],
+    "De 66de key van mijn dictionary": [
+        4356,
+        287496,
+        18974736
+    ],
+    "De 67de key van mijn dictionary": [
+        4489,
+        300763,
+        20151121
+    ],
+    "De 68de key van mijn dictionary": [
+        4624,
+        314432,
+        21381376
+    ],
+    "De 69de key van mijn dictionary": [
+        4761,
+        328509,
+        22667121
+    ],
+    "De 70de key van mijn dictionary": [
+        4900,
+        343000,
+        24010000
+    ],
+    "De 71de key van mijn dictionary": [
+        5041,
+        357911,
+        25411681
+    ],
+    "De 72de key van mijn dictionary": [
+        5184,
+        373248,
+        26873856
+    ],
+    "De 73de key van mijn dictionary": [
+        5329,
+        389017,
+        28398241
+    ],
+    "De 74de key van mijn dictionary": [
+        5476,
+        405224,
+        29986576
+    ],
+    "De 75de key van mijn dictionary": [
+        5625,
+        421875,
+        31640625
+    ],
+    "De 76de key van mijn dictionary": [
+        5776,
+        438976,
+        33362176
+    ],
+    "De 77de key van mijn dictionary": [
+        5929,
+        456533,
+        35153041
+    ],
+    "De 78de key van mijn dictionary": [
+        6084,
+        474552,
+        37015056
+    ],
+    "De 79de key van mijn dictionary": [
+        6241,
+        493039,
+        38950081
+    ],
+    "De 80de key van mijn dictionary": [
+        6400,
+        512000,
+        40960000
+    ],
+    "De 81de key van mijn dictionary": [
+        6561,
+        531441,
+        43046721
+    ],
+    "De 82de key van mijn dictionary": [
+        6724,
+        551368,
+        45212176
+    ],
+    "De 83de key van mijn dictionary": [
+        6889,
+        571787,
+        47458321
+    ],
+    "De 84de key van mijn dictionary": [
+        7056,
+        592704,
+        49787136
+    ],
+    "De 85de key van mijn dictionary": [
+        7225,
+        614125,
+        52200625
+    ],
+    "De 86de key van mijn dictionary": [
+        7396,
+        636056,
+        54700816
+    ],
+    "De 87de key van mijn dictionary": [
+        7569,
+        658503,
+        57289761
+    ],
+    "De 88de key van mijn dictionary": [
+        7744,
+        681472,
+        59969536
+    ],
+    "De 89de key van mijn dictionary": [
+        7921,
+        704969,
+        62742241
+    ],
+    "De 90de key van mijn dictionary": [
+        8100,
+        729000,
+        65610000
+    ],
+    "De 91de key van mijn dictionary": [
+        8281,
+        753571,
+        68574961
+    ],
+    "De 92de key van mijn dictionary": [
+        8464,
+        778688,
+        71639296
+    ],
+    "De 93de key van mijn dictionary": [
+        8649,
+        804357,
+        74805201
+    ],
+    "De 94de key van mijn dictionary": [
+        8836,
+        830584,
+        78074896
+    ],
+    "De 95de key van mijn dictionary": [
+        9025,
+        857375,
+        81450625
+    ],
+    "De 96de key van mijn dictionary": [
+        9216,
+        884736,
+        84934656
+    ],
+    "De 97de key van mijn dictionary": [
+        9409,
+        912673,
+        88529281
+    ],
+    "De 98de key van mijn dictionary": [
+        9604,
+        941192,
+        92236816
+    ],
+    "De 99de key van mijn dictionary": [
+        9801,
+        970299,
+        96059601
+    ]
+}
