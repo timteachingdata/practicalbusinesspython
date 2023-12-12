@@ -83,3 +83,5 @@ This repository accompanies the book Practical Business Python. The book is inte
 - [Queue times](https://queue-times.com/nl)
 - [Queue times for scraping](https://queue-times.com/nl/parks/57/queue_times)
 - [Queue times for API](https://queue-times.com/nl/pages/api)
+- [Weather data](https://openweathermap.org/)
+- [Altitude](https://open-elevation.com/)
