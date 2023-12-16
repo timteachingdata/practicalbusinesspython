@@ -57,6 +57,7 @@ This repository accompanies the book Practical Business Python. The book is inte
 - [GitHub](https://github.com)
 
 ### Competitions
+- [Hacker competitions](https://ctflearn.com/)
 - [Data Science competitions (Kaggle)](https://www.kaggle.com/)
 - [Competitive Programming (Codeforces)](https://codeforces.com/)
 - [Programming for job interviews (LeetCode)](https://leetcode.com/)
