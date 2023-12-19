@@ -37,7 +37,7 @@ def find_best_fit_distribution_continuous(data, distributions=None):
 
     return best_distribution, best_params
 
-def main()
+def main():
     # Generate sample data
     np.random.seed(0)
     values = np.random.normal(loc=0, scale=1, size=1000)
