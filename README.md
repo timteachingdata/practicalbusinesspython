@@ -1,6 +1,5 @@
 # practicalbusinesspython
 
-Ik heb dit aangepast!!!!
 This repository accompanies the book Practical Business Python. The book is intended as course material for the course "Data Scientist" taught at Syntra AB. This repository is structured as follows:
 
 - **book**: Containing all code & extra resources surrounding the book.
