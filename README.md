@@ -51,6 +51,7 @@ This repository accompanies the book Practical Business Python. The book is inte
 - [Installing GIT](https://git-scm.com/downloads)
 - [Sourcetree (for GIT)](https://www.sourcetreeapp.com)
 - [Sourcetree explained](https://support.atlassian.com/bitbucket-cloud/docs/tutorial-learn-bitbucket-with-sourcetree/)
+- [sample-csv](https://wsform.com/knowledgebase/sample-csv-files/)
 
 ### Communities
 - [Data Science community (Kaggle)](https://www.kaggle.com/)
