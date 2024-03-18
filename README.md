@@ -22,6 +22,7 @@ This repository accompanies the book Practical Business Python. The book is inte
 ### Blog posts
 - [The agile bike](https://m.dotdev.co/the-agile-bicycle-829a83b18e7)
 - [Why not to use inplace for pandas](https://towardsdatascience.com/why-you-should-probably-never-use-pandas-inplace-true-9f9f211849e4)
+- [50 python packages](https://dev.to/taipy/python-libraries-you-need-to-know-in-2024-37ka)
 
 ### Documentation:
 - [Cheat sheets](https://www.pythoncheatsheet.org/)
